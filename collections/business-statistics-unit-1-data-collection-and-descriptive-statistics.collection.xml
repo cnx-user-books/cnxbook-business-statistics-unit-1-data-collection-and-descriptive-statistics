@@ -1,0 +1,30 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col12239</md:content-id>
+    <md:title>Business Statistics - Unit 1 - Data collection and descriptive statistics</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>f54607af-3490-40a7-b976-07a2ad20dfc7</md:uuid>
+<md:slug>business-statistics-unit-1-data-collection-and-descriptive-statistics</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Common terms and sampling techniques</md:title>
+      <col:content>
+        <col:module document="m62095"/>
+        <col:module document="m64275"/>
+        <col:module document="m64281"/>
+        <col:module document="m62317"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Descriptive statistics</md:title>
+      <col:content>
+        <col:module document="m64282"/>
+        <col:module document="m64906"/>
+        <col:module document="m64905"/>
+        <col:module document="m64907"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
